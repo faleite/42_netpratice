@@ -23,6 +23,8 @@
 <!-- * ### [Workflow]() -->
 
 ## Mandatory part
+- Para completar esta tarefa, é altamente recomendável entender como funciona o endereçamento em uma \
+rede na qual existem dispositivos como roteadores. Leia sobre endereçamento TCP/IP.
 
 [↑ Index ↑](#mandatory-part)
 
