@@ -28,6 +28,9 @@ rede na qual existem dispositivos como roteadores. Leia sobre endereçamento TCP
 
 [↑ Index ↑](#mandatory-part)
 
+## Tools
+<!-- [<img align="center" src="./dcs/img/IMG_20240216_152557.jpg" width="50%"/>](./dcs/img/IMG_20240216_152557.jpg) -->
+
 ## Study resources
 ### Links
 - [tutorial ricardoneves](https://github.com/ricardoreves/42-net-practice)
