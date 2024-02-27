@@ -33,8 +33,9 @@ rede na qual existem dispositivos como roteadores. Leia sobre endereçamento TCP
 
 ## Study resources
 ### Links
-- [tutorial ricardoneves](https://github.com/ricardoreves/42-net-practice)
 - [tutorial ipaube](https://github.com/lpaube/NetPractice)
+- [tutorial viruskizz](https://github.com/viruskizz/42bangkok-netpractice)
+- [tutorial ricardoneves](https://github.com/ricardoreves/42-net-practice)
 - [medium @imzf](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)
 - [medium toufa7 Subneting](https://toufa7.medium.com/new-subnetting-34fadfb86c70)
 - [medium toufa7 Guidelines](https://toufa7.medium.com/netpractice-guidelines-6341b8309f38)
