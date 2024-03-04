@@ -39,6 +39,7 @@ rede na qual existem dispositivos como roteadores. Leia sobre endereçamento TCP
 - [medium @imzf](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)
 - [medium toufa7 Subneting](https://toufa7.medium.com/new-subnetting-34fadfb86c70)
 - [medium toufa7 Guidelines](https://toufa7.medium.com/netpractice-guidelines-6341b8309f38)
+- [curso em video](https://www.youtube.com/playlist?list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp)
 
 [↑ Index ↑](#mandatory-part)
 
@@ -54,8 +55,8 @@ rede na qual existem dispositivos como roteadores. Leia sobre endereçamento TCP
 - [x] Level 6
 - [x] Level 7
 - [x] Level 8
-- [ ] Level 9
-- [ ] Level 10
+- [x] Level 9
+- [x] Level 10
 
 ### Subnet Mask (Máscara de subrede)
 - A máscara de subrede é um número de 32 bits que serve para separar a parte da rede da parte do host.
