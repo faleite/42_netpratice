@@ -10,8 +10,8 @@
 
  Skills | Grade |
 :------:|:-----:|
-[**Network & system administration**] [**Rigor**] | **Subscribed :atom:**
-<!-- **:white_check_mark: 100%** -->
+[**Network & system administration**] [**Rigor**] | **:white_check_mark: 100%**
+<!-- **Subscribed :atom:** -->
 
 <!-- * ### [Introduction]() -->
 * ### [Mandatory part](#mandatory-part-1)
