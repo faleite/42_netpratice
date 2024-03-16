@@ -31,8 +31,8 @@
 <!-- * ### [Workflow]() -->
 
 ## Mandatory part
-- Para completar esta tarefa, é altamente recomendável entender como funciona o endereçamento em uma \
-rede na qual existem dispositivos como roteadores. Leia sobre endereçamento TCP/IP.
+- To complete this task, it is highly recommended that you understand how addressing works in a \
+network in which there are devices such as routers. Read about TCP/IP addressing.
 
 [↑ Index ↑](#mandatory-part)
 
