@@ -31,8 +31,7 @@
 <!-- * ### [Workflow]() -->
 
 ## Mandatory part
-- To complete this task, it is highly recommended that you understand how addressing works in a \
-network in which there are devices such as routers. Read about TCP/IP addressing.
+- To complete this task, it is highly recommended that you understand how addressing works in a network in which there are devices such as routers. Read about TCP/IP addressing.
 
 [↑ Index ↑](#mandatory-part)
 
