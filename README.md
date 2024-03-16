@@ -65,8 +65,8 @@
 - [x] Level 9
 - [x] Level 10
 
-### Subnet Mask (Máscara de subrede)
-- A máscara de subrede é um número de 32 bits que serve para separar a parte da rede da parte do host.
+### Subnet Mask
+- The subnet mask is a 32-bit number used to separate the network part from the host part.
 
 |Subnet Mask 	|CIDR |	Binary Notation| 	Network Bits| 	Host Bits| 	Available Addresses|
 | -           | -   | -              | -            | -          | -                   | 
